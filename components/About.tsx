@@ -8,9 +8,9 @@ export default function About() {
         </h2>
         {/* First Paragraph */}
         <p className="text-lg text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
-          Hello! I'm David, a passionate developer based in Portugal. I enjoy
-          creating things that live on the internet, whether that be websites,
-          applications, or anything in between.
+          Hello! I&apos;m David, a passionate developer based in Portugal. I
+          enjoy creating things that live on the internet, whether that be
+          websites, applications, or anything in between.
         </p>
         {/* Second Paragraph */}
         <p className="text-lg text-gray-700 dark:text-gray-300 mb-6 leading-relaxed">
@@ -20,7 +20,7 @@ export default function About() {
         </p>
         {/* Third Paragraph */}
         <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-          Fast-forward to today, and I've had the privilege of working at a
+          Fast-forward to today, and I&apos;ve had the privilege of working at a
           start-up, a huge corporation, and a student-led design studio. My main
           focus these days is building accessible, inclusive products and
           digital experiences.

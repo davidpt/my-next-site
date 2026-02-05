@@ -10,7 +10,7 @@ export default function Hero() {
           I build things for the web.
         </h2>
         <p className="max-w-xl text-lg text-gray-600 dark:text-gray-400 leading-relaxed">
-          I'm a full-stack developer specializing in building exceptional
+          I&apos;m a full-stack developer specializing in building exceptional
           digital experiences. Currently focused on creating accessible,
           human-centered products.
         </p>
