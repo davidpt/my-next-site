@@ -6,20 +6,21 @@ export default function About() {
           About Me
         </h2>
         <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-          Hello! I&apos;m David, a passionate developer based in Portugal. I
-          enjoy creating things that live on the internet, whether that be
-          websites, applications, or anything in between.
+          Hello! I&apos;m David, a developer based in Portugal with a background
+          in computer science, cloud engineering, and immersive technologies. I
+          enjoy building reliable and scalable digital solutions, from web
+          applications to cloud-based systems.
         </p>
         <p className="text-lg text-gray-300 mb-6 leading-relaxed">
-          My interest in web development started back in 2015 when I decided to
-          try editing custom Tumblr themes — turns out hacking together a custom
-          reblog button taught me a lot about HTML & CSS!
+          My journey into development began in 2010 during my computer science
+          degree, where I started experimenting with software projects and later
+          expanded into areas such as mobile development, virtual reality, and
+          cloud computing.
         </p>
         <p className="text-lg text-gray-300 leading-relaxed">
-          Fast-forward to today, and I&apos;ve had the privilege of working at a
-          start-up, a huge corporation, and a student-led design studio. My main
-          focus these days is building accessible, inclusive products and
-          digital experiences.
+          Today, I run my own company as a Full Stack Web Developer, helping
+          clients turn ideas into practical, well-engineered web solutions with
+          a strong focus on performance, usability, and maintainability.
         </p>
       </div>
     </section>
